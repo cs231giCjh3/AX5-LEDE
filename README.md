@@ -1,4 +1,4 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html) |[中文的存档](https://web.archive.org/web/20240419223415/https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html) | [中文的存档](https://web.archive.org/web/20240419223415/https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
 
